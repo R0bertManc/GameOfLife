@@ -1,2 +1,2 @@
 # GameOfLife
-Little practise in Python
+Little practice in Python
